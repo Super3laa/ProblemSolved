@@ -1,0 +1,16 @@
+{
+  "name": "enozom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enozomtask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alaa",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.0",
+    "csv-parser": "^3.0.0",
+    "md5": "^2.3.0"
+  }
+}
